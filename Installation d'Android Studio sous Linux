@@ -1,0 +1,13 @@
+Télécharger d'abord Android Studio via ce lien https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.1.1.0/android-studio-ide-201.6953283-linux.tar.gz
+Vous téléchargerez un fichier du nom de android-studio.......tar.gz
+Allez dans le dossier contenant votre fichier et ouvrez le dans le terminal
+Tapez sudo tar xvf nom_du_fichier_téléchargé (pour dézipper)
+Ensuite copiez le fichier obtenu après extraction dans le Dossier Personnel
+Le nom du fichier est android-studio dans mon cas ici
+Taper cd android-studio puis ls
+Vous verrez un dossier bin dedans
+Faites cd bin/
+Puis taper ./studio.sh 
+Cette commande c'est pour lancer le android-studio
+
+
