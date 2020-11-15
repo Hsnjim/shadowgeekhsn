@@ -1,2 +1,0 @@
-# shadowgeekhsn
-hacking for life
