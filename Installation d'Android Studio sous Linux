@@ -1,4 +1,6 @@
-Télécharger d'abord Android Studio via ce lien https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.1.1.0/android-studio-ide-201.6953283-linux.tar.gz
+Télécharger d'abord Android Studio via ce lien 
+https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.1.1.0/android-studio-ide-201.6953283-linux.tar.gz ou sur https://developer.android.com/studio
+
 Vous téléchargerez un fichier du nom de android-studio.......tar.gz
 Allez dans le dossier contenant votre fichier et ouvrez le dans le terminal
 Tapez sudo tar xvf nom_du_fichier_téléchargé (pour dézipper)
